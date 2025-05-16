@@ -5,7 +5,7 @@ st.write(
     "Afghan berubah jadi harimau malaya"
 )
 
-st.image(views/1746503376035.jpg", widyh=200) 
+st.image("views/1746503376035.jpg", width=200) 
 st.write("\n")  
-st.subheader(yaya)
+st.subheader("yaya")
 st.write("miss p5")   
